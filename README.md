@@ -141,13 +141,13 @@ npx playwright install
 # Running Tests
 
 Run all tests
-npx playwright test
+-npx playwright test
 
 Run specific test file
-npx playwright test tests/login.spec.js
+-npx playwright test tests/login.spec.js
 
 Run tests in headed mode
-npx playwright test --headed
+-npx playwright test --headed
 
 
 ---
